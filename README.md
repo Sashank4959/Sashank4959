@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sashank
 - 👀 I’m interested in Software Development, Web Development, and UI/UX Design.
 - 🌱 I’m currently learning different programming languages like JAVA, PYTHON, HTML, CSS, PHP, & JAVASCRIPT
-- 📫 How to reach me [...](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 📫 How to reach me (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - 😄 Pronouns: He/Him
 
 
